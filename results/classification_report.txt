@@ -1,0 +1,14 @@
+PLANT DISEASE DETECTION (EFFICIENTNETV2-B0) - TEST SET CLASSIFICATION REPORT
+=================================================================
+
+                     precision    recall  f1-score   support
+
+     Tomato Healthy     1.0000    1.0000    1.0000       239
+Tomato Early Blight     0.9933    0.9933    0.9933       150
+ Tomato Late Blight     0.9930    0.9895    0.9913       287
+Potato Early Blight     1.0000    1.0000    1.0000       150
+ Potato Late Blight     0.9868    0.9933    0.9900       150
+
+           accuracy                         0.9949       976
+          macro avg     0.9946    0.9952    0.9949       976
+       weighted avg     0.9949    0.9949    0.9949       976

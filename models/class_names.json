@@ -1,0 +1,29 @@
+{
+    "class_order_folders": [
+        "Tomato___healthy",
+        "Tomato___Early_blight",
+        "Tomato___Late_blight",
+        "Potato___Early_blight",
+        "Potato___Late_blight"
+    ],
+    "class_display_names": [
+        "Tomato Healthy",
+        "Tomato Early Blight",
+        "Tomato Late Blight",
+        "Potato Early Blight",
+        "Potato Late Blight"
+    ],
+    "mapping": {
+        "Tomato___healthy": "Tomato Healthy",
+        "Tomato___Early_blight": "Tomato Early Blight",
+        "Tomato___Late_blight": "Tomato Late Blight",
+        "Potato___Early_blight": "Potato Early Blight",
+        "Potato___Late_blight": "Potato Late Blight"
+    },
+    "architecture": "EfficientNetV2-B0",
+    "input_shape": [
+        224,
+        224,
+        3
+    ]
+}

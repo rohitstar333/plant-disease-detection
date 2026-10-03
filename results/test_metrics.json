@@ -1,0 +1,53 @@
+{
+    "test_accuracy": 0.9631147540983607,
+    "macro_precision": 0.9586753469515049,
+    "macro_recall": 0.9690447130173633,
+    "macro_f1": 0.9631567299309234,
+    "weighted_precision": 0.9646183517470917,
+    "weighted_recall": 0.9631147540983607,
+    "weighted_f1": 0.9631114132675447,
+    "class_names": [
+        "Tomato Healthy",
+        "Tomato Early Blight",
+        "Tomato Late Blight",
+        "Potato Early Blight",
+        "Potato Late Blight"
+    ],
+    "confusion_matrix": [
+        [
+            238,
+            1,
+            0,
+            0,
+            0
+        ],
+        [
+            1,
+            143,
+            3,
+            0,
+            3
+        ],
+        [
+            3,
+            16,
+            261,
+            0,
+            7
+        ],
+        [
+            0,
+            0,
+            0,
+            149,
+            1
+        ],
+        [
+            0,
+            0,
+            1,
+            0,
+            149
+        ]
+    ]
+}
